@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm T0n7R</h1>
 - 🔭 I’m currently working on **42 projects**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
