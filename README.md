@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm T0n7R</h1>
+<h1 align="center">Hi 👋, I'm Nerada</h1>
 - 🔭 I’m currently working on **42 projects**
 
 <p align="left">
