@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi 👋 ! I'm Nerada00  🚀</h2>
+<h2 align="left">Hi ! I'm Nerada00</h2>
 
 ###
 
