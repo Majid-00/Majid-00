@@ -3,7 +3,9 @@
 <h2 align="center">Hi ! I'm Nerada00 👋</h2>
 
 ###
-
+<div style="text-align: center;">
+  <img src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" style="width: 200px; height: auto;">
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" height="150" src="https://imgs.search.brave.com/uQzSrLUhtd4_6VbtCbr9Z9f5Z7QRHqhViJb0N7qOyTE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/U2xCUURWbkMzWU1B/QUFBTS80Mi5naWY.gif"  />
 
