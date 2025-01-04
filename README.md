@@ -50,9 +50,9 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   
 <img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/cb7d4dd8e2bfe3c162903196be457cc8/static_badge_dark.png" 
-  alt="Root Me Badge" style="width: 370px; height: auto; margin-right: 1px; border-radius: 20px;" />
+  alt="Root Me Badge" style="width: 380px; height: auto; margin-right: 1px; border-radius: 20px;" />
 <img src="https://tryhackme-badges.s3.amazonaws.com/nerada.png" 
-  alt="TryHackMe Badge" style="width: 460px; height: auto;" />
+  alt="TryHackMe Badge" style="width: 450px; height: auto;" />
 
 </div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
