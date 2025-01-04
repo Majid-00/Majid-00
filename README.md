@@ -55,14 +55,20 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  
-<img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/cb7d4dd8e2bfe3c162903196be457cc8/static_badge_dark.png" 
-  alt="Root Me Badge" style="width: 380px; height: auto; margin-right: 1px; border-radius: 20px;" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/nerada.png" 
-  alt="TryHackMe Badge" style="width: 450px; height: auto;" />
+<table align="center" style="border: 3px solid #ddd; border-radius: 20px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/cb7d4dd8e2bfe3c162903196be457cc8/static_badge_dark.png" 
+        alt="Root Me Badge" style="width: 380px; height: auto; border-radius: 20px;" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/nerada.png" 
+        alt="TryHackMe Badge" style="width: 450px; height: auto; border-radius: 20px;" />
+    </td>
+  </tr>
+</table>
 
-</div>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ###
