@@ -53,9 +53,9 @@
   alt="Root Me Badge" style="width: 370px; height: auto; margin-right: 1px; border-radius: 20px;" />
 <img src="https://tryhackme-badges.s3.amazonaws.com/nerada.png" 
   alt="TryHackMe Badge" style="width: 460px; height: auto;" />
-<img src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" style="width: 170px; height: auto;">
 
 </div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ###
 
