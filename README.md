@@ -9,6 +9,7 @@
 
 ###
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -27,7 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+
 </div>
+
 
 ###
 
@@ -42,10 +45,17 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">@42Paris</h3>
-<h3 align="center">@Ecole2600</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  
+<img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/cb7d4dd8e2bfe3c162903196be457cc8/static_badge_dark.png" 
+  alt="Root Me Badge" style="width: 370px; height: auto; margin-right: 1px; border-radius: 20px;" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/nerada.png" 
+  alt="TryHackMe Badge" style="width: 460px; height: auto;" />
+<img src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" style="width: 170px; height: auto;">
+
+</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
