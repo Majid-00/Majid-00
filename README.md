@@ -58,8 +58,7 @@
 <table align="center" style="border: 3px solid #ddd; border-radius: 20px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <tr>
     <td style="padding: 10px;">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/nerada.png" 
-        alt="TryHackMe Badge" style="width: 450px; height: auto; border-radius: 20px;" />
+      <img src="https://tryhackme-badges.s3.amazonaws.com/nerada.png" alt="Your Image Badge" />
     </td>
   </tr>
 </table>
