@@ -55,13 +55,6 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table align="center" style="border: 3px solid #ddd; border-radius: 20px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <tr>
-    <td style="padding: 10px;">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/nerada.png" alt="Your Image Badge" />
-    </td>
-  </tr>
-</table>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
